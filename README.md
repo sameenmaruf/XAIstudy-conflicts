@@ -1,2 +1,2 @@
 # XAIstudy-conflicts
-contains the experiment for our XAI user study about conflict-based explanations
+Experiment for our XAI user study about conflict-based explanations
