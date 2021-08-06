@@ -1,0 +1,34 @@
+### original: recoded
+
+### classes
+not_recom: reject
+priority: wait-list
+spec_prior: priority accept
+
+###features/feature values
+parents: parents' employment
+usual: ordinary
+pretentious: somewhat difficult
+great_pret: challenging
+
+has_nurs: current childcare
+proper: good
+less_proper: sufficient
+improper: insufficient
+critical: critical
+very_crit: very critical
+
+housing: housing condition
+convenient: adequate
+less_conv: somewhat inadequate
+critical: inadequate
+
+social: social situation
+nonprob: unproblematic
+slightly_prob: somewhat problematic
+problematic: problematic
+
+health: child's health
+not_recom: poor
+recommended: good
+priority: average
